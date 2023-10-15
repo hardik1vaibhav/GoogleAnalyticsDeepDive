@@ -18,8 +18,9 @@ Google Analytics is a powerful web analytics service offered by Google. It empow
 
 ## Let's understand some Google Analytics Jargon
 
-+ \textbf{Acquisition}:  How you acquire your website visitors
-+ Alerts: Alerts are notifications that you can set up to receive via email or text message when specific events or changes 
-  occur in your website's analytics data
++ **Acquisition**: How you acquire your website visitors
++ **Alerts**: Alerts are notifications that you can set up to receive via email or text message when specific events or 
+  changes occur in your website's analytics data
++ **Benchmarking**: This report lets you compare how your website’s metrics perform against other websites of similar size and category. It will give you an idea of how you’re doing in areas such as visits, page views, bounce rates, average time on site, and other metrics, relative to the average business in your category.
 
 
