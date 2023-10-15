@@ -18,6 +18,8 @@ Google Analytics is a powerful web analytics service offered by Google. It empow
 
 ## Let's understand some Google Analytics Jargon
 
-+ Acquisition:  How you acquire your website visitors
++ \textbf{Acquisition}:  How you acquire your website visitors
++ Alerts: Alerts are notifications that you can set up to receive via email or text message when specific events or changes 
+  occur in your website's analytics data
 
 
