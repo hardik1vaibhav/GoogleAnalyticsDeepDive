@@ -1,9 +1,6 @@
 # Google Analytics DeepDive! 
 ---
-
-# Google Analytics Insights
-
-Welcome to the Google Analytics Insights repository! This resource aims to provide a comprehensive understanding of Google Analytics, covering everything from setup to advanced features, including insights into Google Analytics 4.
+Welcome to the Google Analytics DeepDive repository! This resource aims to provide a comprehensive understanding of Google Analytics, covering everything from setup to advanced features, including insights into Google Analytics 4.
 
 ## What is Google Analytics?
 
