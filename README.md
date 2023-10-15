@@ -8,7 +8,7 @@ Welcome to the Google Analytics Insights repository! This resource aims to provi
 ## What is Google Analytics?
 
 Google Analytics is a powerful web analytics service offered by Google. It empowers website owners and marketers to gain valuable insights into their website's performance and user behavior. This includes tracking website traffic, analyzing audience demographics and behavior, monitoring conversions and e-commerce data, and customizing reports. Google Analytics reports can tell you:
-• Where users come from, what pages they visited, and what they do on the site
+-  Where users come from, what pages they visited, and what they do on the site
 • Which of your marketing initiatives are most effective
 • Accurate website traffic patterns/trends
 • Which customer and customer segments are most valuable
