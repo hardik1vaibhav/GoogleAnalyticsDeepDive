@@ -30,6 +30,6 @@ Google Analytics is a powerful web analytics service offered by Google. It empow
 + **Cost Data**:   information about how much you spend on advertising campaigns or marketing efforts to drive traffic to your website. This data is essential for understanding the return on investment (ROI) and effectiveness of your marketing activities.
 + **Dimensions**:  A Dimension is typically, an attribute of a visitor and their activity on your website. The source that someone came from (referring URL), technical information like browsers or mobile phones, and the activity a person performed such as the landing pages, searches they did on your website, and the products they purchased, are all Dimensions. Dimensions are used to help organize, segment and analyze your website’s data.
 + **Direct Traffic**: Visits to your website where the visitor types your URL (web address) into their browser’s address bar or uses a bookmark to get to your website. Direct traffic tells you what percentage of your visitors know your brand and website URL versus finding your website through a search engine or another website.
-  For more such jargon, explore [this link](https://vicimediainc.com/google-analytics-cheat-sheet-2/) 
+  For more such jargon, explore [ this link](https://vicimediainc.com/google-analytics-cheat-sheet-2/) 
 
 
