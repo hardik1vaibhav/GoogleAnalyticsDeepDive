@@ -16,4 +16,8 @@ Google Analytics is a powerful web analytics service offered by Google. It empow
 - Which pages retain users the longest
 - What search terms people use to find the site
 
+## Let's understand some Google Analytics Jargon
+
+* Acquisition:  How you acquire your website visitors
+
 
