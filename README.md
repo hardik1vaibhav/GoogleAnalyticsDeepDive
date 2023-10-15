@@ -18,6 +18,6 @@ Google Analytics is a powerful web analytics service offered by Google. It empow
 
 ## Let's understand some Google Analytics Jargon
 
-* Acquisition:  How you acquire your website visitors
++ Acquisition:  How you acquire your website visitors
 
 
